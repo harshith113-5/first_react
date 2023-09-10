@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/harshith113-5/first_react/static/css/main.073c9b0a.css",
+    "main.js": "/harshith113-5/first_react/static/js/main.53021ce1.js",
+    "static/js/787.28cb0dcd.chunk.js": "/harshith113-5/first_react/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/harshith113-5/first_react/index.html",
+    "main.073c9b0a.css.map": "/harshith113-5/first_react/static/css/main.073c9b0a.css.map",
+    "main.53021ce1.js.map": "/harshith113-5/first_react/static/js/main.53021ce1.js.map",
+    "787.28cb0dcd.chunk.js.map": "/harshith113-5/first_react/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.53021ce1.js"
+  ]
+}
